@@ -1,0 +1,12 @@
+{
+  "name": "maidbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "gabi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0-dev.1640563809.d0c3961"
+  }
+
+}
