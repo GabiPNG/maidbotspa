@@ -7,6 +7,10 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.5.0-dev.1640563809.d0c3961"
+  },
+  
+  "scripts": {
+    "start": "node scr/index.js"
   }
 
 }
